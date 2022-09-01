@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Data Analysis
 - 🌱 I’m currently learning Data Analysis on Coursera by Google
 - 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me twitter @imOmkarK
+- 📫 How to reach me twitter 
 
 <!---
 katkadeomkar/katkadeomkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
